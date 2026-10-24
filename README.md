@@ -11,9 +11,8 @@ Based in Cameroon 🇨🇲 · Fluent in English and French · Open to remote int
 - Turn raw data into dashboards and decisions
 
 ## Credentials
-- Microsoft **DP-300**: Azure Database Administrator Associate
-- **AZ-104**: Azure Administrator (in progress)
-- MTech degree · WIPO IP certification
+- **AZ-104**: Azure Administrator Associate 
+- WIPO IP certification
 - Former Junior DBA, SONACAM
 
 ## Featured projects
